@@ -42,7 +42,7 @@ GitKraken 是比较常用的 Git 客户端工具。如果不使用 GitKraken 的
 Fork 完成后，会自动跳转到你的 GitHub 仓库页面，可以看到已经生成了 docs-3d 项目副本，如下图所示：
 
 ![repository](submit-pr/repository.png)
-
+111
 ## 将远程仓库克隆到本地仓库
 
 1、首先需要到你的远程仓库复制 **远程仓库项目地址**，如下图所示：
@@ -125,6 +125,8 @@ Fork 完成后，会自动跳转到你的 GitHub 仓库页面，可以看到已�
 填写完成后点击 **Submit new issue** 提交 issue，就完成了。
 
 2、或者也可以进入官方仓库 **creator-docs**（[GitHub](https://github.com/cocos/cocos-docs) | [Gitee](https://gitee.com/mirrors_cocos-creator/creator-docs/)），选择 **Issue -> New issue** 进入提交 issue 界面，填写内容并提交。
+
+
 
 本次提交 pr 和提交 issue 的教程到这里就结束了，若有不理解或者有误的地方请根据上述步骤向我们反馈。<br>
 有些人可能会问，为什么要这么麻烦的提交问题。其实，正确的提交问题可以节省很多的沟通成本，而且有些问题可能在初步排查的时候就可以解决了，或者会发现只是由于自己粗心大意导致的。而官方节省下来的人力就可以更好的去服务于 Creator，让 Creator 能更好地为游戏开发者服务。
