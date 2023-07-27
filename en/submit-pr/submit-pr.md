@@ -18,6 +18,9 @@ First, make sure that Git is installed on your computer. Enter `git` in the comm
 
 ![git](submit-pr/git.png)
 
+
+hhhh
+
 If it's not installed, you can [**Download Git**](https://git-scm.com/download/) and install it. Keep all the installation options as default and click "Next" until the installation is complete.
 
 ### Install Git Client —— GitKraken
